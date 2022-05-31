@@ -1,2 +1,2 @@
-# Sorting_Algorithms
-Sorting algorithms in C.
+# Sorting Algorithms
+Basic sorting algorithms implemented in C for learning purposes.
